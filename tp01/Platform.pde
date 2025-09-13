@@ -12,7 +12,7 @@ class Platform {
   }
 
   public void display() {
-
+    fill(#B469F7);
     rect(x, y, w, h);
   }
 

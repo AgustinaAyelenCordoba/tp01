@@ -18,7 +18,7 @@ class Ball {
   }
 
  public void display() {
-  
+   fill(#0AFAD0);
     ellipse(x, y, size, size);
   }
 
