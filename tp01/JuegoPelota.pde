@@ -35,7 +35,7 @@ public void draw() {
       }
     }
   } else {
-    displayGameOver(); 
+    displayGameOver() 
   }
 }
   
